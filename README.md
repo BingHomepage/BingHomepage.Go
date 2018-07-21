@@ -1,4 +1,4 @@
-# BingHomepage.Go
+# BingHomepage.Go [![CircleCI](https://circleci.com/gh/BingHomepage/BingHomepage.Go/tree/master.svg?style=svg)](https://circleci.com/gh/BingHomepage/BingHomepage.Go/tree/master)
 
 BingHomepage.Go library is powered by BingHomepageAPI which provides Bing's current homepage image details which include URL for image, Copyright information, and a Copyright link.
 
