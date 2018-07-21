@@ -16,7 +16,7 @@ go get github.com/BingHomepage/BingHomepage.Go
 
 In the import section of your Go source, include `github.com/BingHomepage/BingHomepage.Go`
 
-```sh
+```go
 import "github.com/BingHomepage/BingHomepage.Go"
 ```
 
